@@ -1,1 +1,2 @@
 texto1
+segunda línea desde GitHub
